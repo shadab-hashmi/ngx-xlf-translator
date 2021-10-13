@@ -55,7 +55,7 @@ In translations/csv/ we can edit the files as csv. When done hit `translate` aga
 
 ## Author
 
-- **Shadab Hashmi** - _Initial work_ - [ngx-xlf-translator](https://github.com/shadabhashmi/ngx-xlf-translator)
+- **Shadab Hashmi** - _Initial work_ - [ngx-xlf-translator](https://github.com/shadab-hashmi/ngx-xlf-translator)
 
 ## Todo
 

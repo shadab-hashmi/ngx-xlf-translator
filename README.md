@@ -1,4 +1,4 @@
-# ng-xlf-translator
+# ngx-xlf-translator
 
 This tool can be used to automate i18n translations with google translate.
 It is primarily used for creating translation templates in csv so that translators can edit the files in numbers/excel.
@@ -11,7 +11,7 @@ Simply use npm to install the package globally
 
 ```
 # Install global so it can be called from anywhere
-$ npm install -g xlf-translator
+$ npm install -g ngx-xlf-translator
 ```
 
 ### Usage

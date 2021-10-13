@@ -93,7 +93,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/xlf-translator.js">
+        <entry file="file://$PROJECT_DIR$/lib/ngx-xlf-translator.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="540">
               <caret line="36" column="48" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
@@ -174,7 +174,7 @@
         <option value="$PROJECT_DIR$/bin/translate.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/locale/messages.xlf" />
-        <option value="$PROJECT_DIR$/lib/xlf-translator.js" />
+        <option value="$PROJECT_DIR$/lib/ngx-xlf-translator.js" />
         <option value="$PROJECT_DIR$/lib/xlf-processor.js" />
       </list>
     </option>
@@ -201,33 +201,33 @@
         <subPane>
           <expand>
             <path>
-              <item name="xlf-translator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xlf-translator" type="462c0819:PsiDirectoryNode" />
+              <item name="ngx-xlf-translator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ngx-xlf-translator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="xlf-translator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xlf-translator" type="462c0819:PsiDirectoryNode" />
+              <item name="ngx-xlf-translator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ngx-xlf-translator" type="462c0819:PsiDirectoryNode" />
               <item name="bin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="xlf-translator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xlf-translator" type="462c0819:PsiDirectoryNode" />
+              <item name="ngx-xlf-translator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ngx-xlf-translator" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="xlf-translator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xlf-translator" type="462c0819:PsiDirectoryNode" />
+              <item name="ngx-xlf-translator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ngx-xlf-translator" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
               <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="xlf-translator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xlf-translator" type="462c0819:PsiDirectoryNode" />
+              <item name="ngx-xlf-translator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ngx-xlf-translator" type="462c0819:PsiDirectoryNode" />
               <item name="locale" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="xlf-translator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xlf-translator" type="462c0819:PsiDirectoryNode" />
+              <item name="ngx-xlf-translator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ngx-xlf-translator" type="462c0819:PsiDirectoryNode" />
               <item name="locale" type="462c0819:PsiDirectoryNode" />
               <item name="messages" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -405,7 +405,7 @@
           <option name="timeStamp" value="222" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/lib/xlf-translator.js</url>
+          <url>file://$PROJECT_DIR$/lib/ngx-xlf-translator.js</url>
           <line>38</line>
           <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="243" />
@@ -615,7 +615,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/xlf-translator.js">
+    <entry file="file://$PROJECT_DIR$/lib/ngx-xlf-translator.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="36" column="48" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />

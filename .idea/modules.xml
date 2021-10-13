@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/xlf-translator.iml" filepath="$PROJECT_DIR$/.idea/xlf-translator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ngx-xlf-translator.iml" filepath="$PROJECT_DIR$/.idea/ngx-xlf-translator.iml" />
     </modules>
   </component>
 </project>

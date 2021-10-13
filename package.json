@@ -1,10 +1,13 @@
 {
-  "name": "xlf-translator",
+  "name": "ngx-xlf-translator",
   "version": "1.0.0",
   "description": "An XLF Reader and translator",
   "main": "index.js",
   "bin": {
     "translate": "./bin/translate.js"
+  },
+  "directories": {
+    "lib": "lib"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,7 +22,8 @@
     "Automated",
     "translate",
     "translator",
-    "i18n"
+    "i18n",
+    "Angular"
   ],
   "author": "Shadab Hashmi",
   "license": "ISC",

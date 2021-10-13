@@ -1,0 +1,40 @@
+{
+  "name": "xlf-translator",
+  "version": "1.0.30",
+  "description": "An XLF Reader and translator",
+  "main": "index.js",
+  "bin": {
+    "translate": "./bin/translate.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadab-hashmi/ngx-xlf-translator.git"
+  },
+  "keywords": [
+    "XLF",
+    "XLFF",
+    "Automated",
+    "translate",
+    "translator",
+    "i18n"
+  ],
+  "author": "Shadab Hashmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shadab-hashmi/ngx-xlf-translator/issues"
+  },
+  "homepage": "https://github.com/shadab-hashmi/ngx-xlf-translator#readme",
+  "dependencies": {
+    "@iamtraction/google-translate": "^1.1.2",
+    "async": "^2.6.1",
+    "chalk": "^2.4.2",
+    "csvtojson": "^2.0.4",
+    "express": "^4.16.4",
+    "json2csv": "^4.1.4",
+    "log-symbols": "^3.0.0",
+    "xml2js": "^0.4.19"
+  }
+}
